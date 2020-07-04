@@ -2,5 +2,5 @@
 
 ###### Solutions to 10 Days of Javascript Challenges
 
-Day 1 Add
-Day 2 String
+[ x ] Day 1 Add
+[ x ] Day 2 String
