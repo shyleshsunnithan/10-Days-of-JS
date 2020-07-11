@@ -8,3 +8,4 @@
 4. Day 4 Array Replace
 5. Day 5 Case Insensitive Pallindrome
 6. Day 6 Enclose in Brackets
+7. Day 7 Factorial
