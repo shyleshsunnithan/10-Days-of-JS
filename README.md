@@ -10,3 +10,4 @@
 6. Day 6 Enclose in Brackets
 7. Day 7 Factorial
 8. Day 8 First Digit
+9. Day 9 Largest Number Possible from an Input
